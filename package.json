@@ -1,0 +1,21 @@
+{
+  "name": "discord-js-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for Discord.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "node ./app.js"
+  },
+  "keywords": [
+    "Discord",
+    "Nodejs",
+    "boilerplate",
+    "template"
+  ],
+  "author": "JagielskiPrzemek",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0"
+  }
+}

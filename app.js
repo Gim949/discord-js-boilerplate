@@ -24,7 +24,7 @@ bot.on("message", msg => {
     
     cd.add(msg.author.id);
     bot.setTimeout( () => {
-        cd.remove(msg.author.id);
+        cd.delete(msg.author.id);
     }, 3000);
 });
 

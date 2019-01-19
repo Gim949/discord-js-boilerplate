@@ -4,7 +4,7 @@
   "description": "A boilerplate for Discord.js",
   "main": "app.js",
   "scripts": {
-    "test": "node ./app.js"
+    "start": "node ./app.js"
   },
   "keywords": [
     "Discord",
@@ -12,7 +12,7 @@
     "boilerplate",
     "template"
   ],
-  "author": "JagielskiPrzemek",
+  "author": "Gim949",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.3.2",
